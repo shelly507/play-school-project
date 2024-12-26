@@ -1,0 +1,226 @@
+.navbar{
+    position: fixed;
+}
+body{
+    font-family:'Roboto', sans-serif !important;
+}
+p.shelly{
+    font-size:40px;
+    font-weight:500;
+    color:rgb(59, 71, 87);
+    font-style: italic;
+    font-family: georgia,sans-serif;
+    font-weight: 500;
+}  
+.need{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 300;
+    font-size:60px;
+    color: rgb(59, 71,87);
+}
+
+p.deen{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    color: rgb(59, 71,87);
+    font-size: 25px;
+}
+
+.nine{
+    background-color:rgb(220, 245, 255);
+    padding: 5%;
+}
+
+p.xyz{
+    font-size: 30px;
+    text-align: center;
+    color:rgb(26, 111, 187);
+    font-family: 'Georgia',sans-serif;
+    font-weight: 400;
+}
+
+.thakur{
+    font-size: 50px;
+    text-align: center;
+    color:rgb(59, 71, 87);
+    font-weight: 500;
+    font-family: 'poppins',sans-serif;
+
+}
+
+.bt{
+    font-family: 'Roboto',sans-serif;
+    color: rgb(59, 71, 87);
+    font-style: normal;
+    font-size:20px;
+    text-align: center;
+    font-weight: 400;
+}
+
+p.tt{
+    font-size: 35px;
+    font-family: georgia,sans-serif;
+    color: rgb(59,71,87);
+    font-style: italic;
+}
+
+.usps{
+    font-family: 'Poppins',sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.seenu{
+    font-size: 24px;
+    color:rgb(59, 71, 87);
+    font-family:'Roboto',sans-serif;
+    font-weight: 400;
+    text-align: justify;
+
+}
+
+.row1{
+    font-family: 'Georgia',sans-serif;
+    font-style: italic;
+    font-size:25px ;
+    text-align: center;
+    color: rgb(26, 111, 187);
+    font-weight: 400;
+}
+
+.row2{
+    font-family: 'Poppins',sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    color:rgb(59, 71, 87);
+    text-align: center;
+}
+
+p.kit{
+    font-size: 30px;
+    color: rgb(26, 111, 187);
+    text-align: center;
+    font-family: 'Georgia',sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.kat{
+    text-align: center;
+    font-size: 55px;
+    color: rgb(59, 71, 87);
+    font-weight: 500;
+    font-family: 'Poppins',sans-serif
+}
+
+.pd{
+    font-family: 'Roboto',sans-serif;
+    font-size: 22px;
+    color: rgb(59, 71, 87);
+    font-weight:400
+
+}
+.wave-block.bg-cover {
+    background-size: cover !important;
+    height: 100%;
+}
+.wave-block{
+    background: url(https://www.bachpanglobal.com/img/blue-wave.webp) ! important;
+    background-repeat: no-repeat ! important;
+    position: relative;
+    overflow: hidden;
+    padding: 150px 0;
+    background-size: cover;
+    background-size: 100% 100%;
+
+    }
+.sdn{
+    font-family: 'Georgia',sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    font-style: italic;
+    color: rgb(59, 71, 87);
+
+}
+
+.child{
+    font-family:'Roboto',sans-serif ;
+    font-size: 25px;
+    font-weight: 400;
+    color: rgb(59, 71, 87);
+
+}
+
+
+.footer-bottom {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-bottom p {
+    margin: 0;
+    font-size: 16px;
+}
+
+.footer-bottom a {
+    color: #000;
+    text-decoration: none;
+}
+
+.soc-link-wrap {
+    margin-top: 10px;
+}
+
+.soc-link {
+    list-style: none;
+    padding: 0;
+    display: flex;
+ 
+}
+
+.soc-link li {
+    margin: 0 10px;
+}
+
+.soc-link img {
+    width: 24px;
+    height: auto;
+}
+
+.clr{
+    color: rgb(26, 111, 187);
+    font-family: 'Georgia', sans-serif;
+    font-size: 30px;
+    font-style: italic;
+}
+.display-4{
+    font-family: 'Poppins',sans-serif;
+    color: rgb(59, 71, 87);
+    font-size: 50px;
+    font-weight: 500;
+}
+p.dk{
+    font-size: 22px;
+    font-family: 'Roboto',sans-serif;
+    font-weight:400;
+    font-style: normal;
+}
+.footer.bgimg{
+    background-image: url(/images/testimonial\ background.webp);
+}
+.lnk{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.cnt{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+}
+.bch{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+}
